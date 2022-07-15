@@ -1,7 +1,7 @@
 # monoscope.vim
 
-Telescope extension to search within mono repository by offering ways to restrict the amount of shown files and folders.
-Can be configured to only show folders from a codeowner files and restrict the shown file types.
+Telescope extension to search within mono repository by offering ways to restrict the amount of shown folders and file types.
+Can be configured to only show folders of a coder owner with respect to a codeowner file.
 
 ## Installation
 
